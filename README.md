@@ -170,7 +170,7 @@ Stay tuned for exciting new projects!
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrady130&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
 
 </div>
 
