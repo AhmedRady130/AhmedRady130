@@ -163,12 +163,7 @@ Stay tuned for exciting new projects!
 <div align="center">
 
  <img width="49%" src="https://streak-stats.demolab.com/?user=ahmedrady130&theme=tokyonight&hide_border=true" />
-  
-  <br/><br/>
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrady130&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  
-  <br/><br/>
+
   
 
 
