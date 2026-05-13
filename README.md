@@ -58,7 +58,7 @@ const ahmed = {
 
 A comprehensive educational platform for modern learning.
 
-🔗 [Live Demo](https://edu-coree.runasp.net/)
+🔗 [Live Demo](https://front-end-nu-silk-55.vercel.app/#/)
 
 </td>
 <td width="50%">
@@ -163,7 +163,7 @@ Stay tuned for exciting new projects!
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedrady130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrady130&theme=tokyonight&hide_border=true" />
+ <img width="49%" src="https://streak-stats.demolab.com/?user=ahmedrady130&theme=tokyonight&hide_border=true" />
   
   <br/><br/>
   
